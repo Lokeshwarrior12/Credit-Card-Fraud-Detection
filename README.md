@@ -11,9 +11,7 @@ It demonstrates an **end-to-end ML workflow**, including:
 - Optional experiment tracking (MLflow)
 - Optional containerization (Docker/Kubernetes)
 
-**Objective:** Detect fraudulent credit card transactions in real-time.
-
----
+**Objective:** Detect fraudulent credit card transactions in real-time. Designed and implemented a real-time credit card fraud detection system that simulates production-level streaming ML workflows. The system ingests transaction data, predicts fraudulent activity in real-time, and exposes predictions via an API. Demonstrates full-stack ML deployment including streaming, model serving, monitoring, and containerization.
 
 ## Tech Stack
 
