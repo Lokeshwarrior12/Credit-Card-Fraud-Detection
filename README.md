@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-## Real-Time Credit Card Fraud Detection (Sample Project)
+## Real-Time Credit Card Fraud Detection
 
 ## Project Overview
 This is a **small sample project** that simulates a real-time credit card fraud detection system.  
