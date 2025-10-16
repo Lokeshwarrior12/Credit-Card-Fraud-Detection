@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MS/Job/Credit%20Card%20Fruad%20detection/mlruns/263394124933052697/e9af7117ccb4454eaadb844a7d054428/artifacts
+end_time: 1760580591069
+entry_point_name: ''
+experiment_id: '263394124933052697'
+lifecycle_stage: active
+run_id: e9af7117ccb4454eaadb844a7d054428
+run_name: capable-lamb-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760580585880
+status: 3
+tags: []
+user_id: lokes

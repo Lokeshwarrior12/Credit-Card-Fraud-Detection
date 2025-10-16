@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MS/Job/Credit%20Card%20Fruad%20detection/mlruns/263394124933052697/324be5174b6f4c58b386166701100b9f/artifacts
+end_time: 1760575887410
+entry_point_name: ''
+experiment_id: '263394124933052697'
+lifecycle_stage: active
+run_id: 324be5174b6f4c58b386166701100b9f
+run_name: polite-shoat-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760575884109
+status: 3
+tags: []
+user_id: lokes

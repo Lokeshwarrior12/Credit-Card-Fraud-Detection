@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fraud-consumer
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: fraud-consumer
+  template:
+    metadata:
+      labels:
+        app: fraud-consumer
+      annotations:
+        prometheus.io/scrape": "true"
+        prometheus.io/port: "8001"
+    spec:
+      containers:
+        - name: fraud-consumer
+          image: fraud-consumer:latest

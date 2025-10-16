@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MS/Job/Credit%20Card%20Fruad%20detection/mlruns/263394124933052697/481720711d284ec18341551016855e7f/artifacts
+end_time: 1760576501449
+entry_point_name: ''
+experiment_id: '263394124933052697'
+lifecycle_stage: active
+run_id: 481720711d284ec18341551016855e7f
+run_name: spiffy-newt-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760576498407
+status: 4
+tags: []
+user_id: lokes

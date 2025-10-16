@@ -1,0 +1,4 @@
+scrape_configs:
+  - job_name: 'fraud-services'
+    static_configs:
+      - targets: ['fraud-api-svc:8000', 'fraud-consumer:8001']
